@@ -14,7 +14,7 @@ Getting Started ▶️
 =
 1. Clone the repository on local machine                                          git clone https://github.com/varunkh29/FancodeAssignmentSDET.git
 
-2. Navigate to the project directory using 'cd Fancode_VK_Assignment_SDET' 
+2. Navigate to the project directory using 'cd FancodeAssignmentSDET' 
 
 3. Install the required dependencies using 'pip install -r requirements.txt' 
 
